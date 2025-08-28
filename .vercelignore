@@ -1,0 +1,8 @@
+# Исключаем ненужные файлы из деплоя
+*.bat
+*.ps1
+*.txt
+README.md
+node_modules/
+.git/
+.env
